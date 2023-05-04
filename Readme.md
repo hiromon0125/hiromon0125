@@ -4,8 +4,15 @@
 <div id="badge" >
   <img src="https://komarev.com/ghpvc/?username=hiromon0125&style=flat-square&color=blue" alt=""/>
 </div>
-# Welcome to Hiroto Takeuchi's profile
-## Who am i?
+<div id="name" align="center">
+  <h1>
+    Welcome to Hiroto Takeuchi's profile
+  </h1>
+</div>
+<h2>
+  Who am I?
+</h2>
+
 
 
 ![Hiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiromon0125&show_icons=true&theme=transparent)
