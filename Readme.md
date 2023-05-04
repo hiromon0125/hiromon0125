@@ -3,6 +3,9 @@
 </div>
 <div id="badge" align="center" >
   <img src="https://komarev.com/ghpvc/?username=hiromon0125&style=flat-square&color=blue" alt=""/>
+  <a href="mailto:hiroto125takeuchi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 <div id="name" align="center">
   <h1>
