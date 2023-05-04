@@ -15,8 +15,8 @@
 
 
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />          
 <br/>
 ![Hiro's GitHub stats](https://github-readme-stats-three-cyan-99.vercel.app/api?username=hiromon0125&show_icons=true&theme=transparent&hide=stars&count_private=true)
 ![Top Langs](https://github-readme-stats-three-cyan-99.vercel.app/api/top-langs/?username=hiromon0125&layout=compact&langs_count=8&theme=transparent)
