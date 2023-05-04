@@ -3,7 +3,10 @@
 </div>
 
 <div id="title" align="center">
-  # Hiroto Takeuchi
+  <p style="font-size: 50px">
+    Hiroto Takeuchi
+  </P>
+
 </div>
 
 ![Hiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiromon0125&show_icons=true&theme=transparent)
