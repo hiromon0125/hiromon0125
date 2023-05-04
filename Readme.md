@@ -15,6 +15,6 @@
 
 
 
-![Hiro's GitHub stats](https://github-readme-stats-three-cyan-99.vercel.app/api?username=hiromon0125&show_icons=true&theme=transparent&hide=stars)
+![Hiro's GitHub stats](https://github-readme-stats-three-cyan-99.vercel.app/api?username=hiromon0125&show_icons=true&theme=transparent&hide=stars&count_private=true)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hiromon0125&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
