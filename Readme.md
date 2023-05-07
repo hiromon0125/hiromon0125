@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJhNTVjOGZmMmMyNzQyNGEzNTgxZTVlYmExN2YwOGI4M2E5ZWYxNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/y93slPbDMdeXJQONHa/giphy.gif" width="100"/>
 </div>
 <div id="badge" align="center" >
-  <img src="https://komarev.com/ghpvc/?username=hiromon0125&style=flat-square&color=blue" alt=""/>
   <a href="mailto:hiroto125takeuchi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=hiromon0125&style=flat-square&color=blue" alt=""/>
 </div>
 <div id="name" align="center">
   <h1>
@@ -26,7 +26,9 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Expo" width="30px" style="padding-right:10px;background-color:white;border-radius:5px" src="https://static-00.iconduck.com/assets.00/expo-icon-512x462-3a87htea.png" />
+<div align="left" width="30px" style="padding-right:10px;background-color:white" >
+  <img alt="Expo" src="https://static-00.iconduck.com/assets.00/expo-icon-512x462-3a87htea.png" />
+</div>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
