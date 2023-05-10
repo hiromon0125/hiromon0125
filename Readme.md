@@ -44,7 +44,7 @@ I am a student at Rochester Institute of Technology studying Software Engineerin
 
 <div id="badge" align="center" >
   <a href="mailto:hiroto125takeuchi@gmail.com">
-    <img style="height:15px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img style="height:18px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=hiromon0125&style=flat-square&color=blue" alt=""/>
 </div>
