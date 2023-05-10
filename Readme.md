@@ -35,9 +35,8 @@ I am a student at Rochester Institute of Technology studying Software Engineerin
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<br/>
 
-#
+<br/><br/><br/>
 
 <img align="left" height="170px" src="https://github-readme-stats-three-cyan-99.vercel.app/api?username=hiromon0125&show_icons=true&theme=transparent&hide=stars&count_private=true" />
 <img align="left" height="170px" src="https://github-readme-stats-three-cyan-99.vercel.app/api/top-langs/?username=hiromon0125&layout=compact&langs_count=8&theme=transparent" />
