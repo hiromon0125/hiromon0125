@@ -43,6 +43,10 @@ I am a student at Rochester Institute of Technology studying Software Engineerin
 ![Top Langs](https://github-readme-stats-three-cyan-99.vercel.app/api/top-langs/?username=hiromon0125&layout=compact&langs_count=8&theme=transparent)
 
 <div id="badge" align="center" >
+  
+  <a href="https://www.linkedin.com/in/htakeuchi125/">
+    <img style="height:20px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:hiroto125takeuchi@gmail.com">
     <img style="height:20px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
