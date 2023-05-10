@@ -40,6 +40,7 @@ I am a student at Rochester Institute of Technology studying Software Engineerin
 #
 
 ![Hiro's GitHub stats](https://github-readme-stats-three-cyan-99.vercel.app/api?username=hiromon0125&show_icons=true&theme=transparent&hide=stars&count_private=true)
+<img src="https://github-readme-stats-three-cyan-99.vercel.app/api/top-langs/?username=hiromon0125&layout=compact&langs_count=8&theme=transparent" />
 ![Top Langs](https://github-readme-stats-three-cyan-99.vercel.app/api/top-langs/?username=hiromon0125&layout=compact&langs_count=8&theme=transparent)
 
 <div id="badge" align="center" >
