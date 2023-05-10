@@ -27,7 +27,7 @@
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 <div align="left" width="30px" style="padding-right:10px;background-color:white" >
-  <img alt="Expo" src="https://static-00.iconduck.com/assets.00/expo-icon-512x462-3a87htea.png" />
+  <img alt="Expo" width="30px" src="https://static-00.iconduck.com/assets.00/expo-icon-512x462-3a87htea.png" />
 </div>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
