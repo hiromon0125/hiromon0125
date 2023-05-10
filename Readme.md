@@ -8,9 +8,9 @@
 </div>
 
 <h2>Who am I?</h2>
-<p>
 I am a student at Rochester Institute of Technology studying Software Engineering. I am a co-lead software engineer at a start up company [Pupil](https://getpupil.com/) to develop a mobile app aimed to help highschool students with college application. Using technology like React native as the framework and firebase for the backend. I aim to develop application with clean and functional interface that users would love to use.
-</p>
+
+#
 
 <details>
   <summary><h2>My history</h2></summary>
