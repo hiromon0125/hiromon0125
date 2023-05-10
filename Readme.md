@@ -42,11 +42,10 @@ I am a student at Rochester Institute of Technology studying Software Engineerin
 <img align="left" height="170px" src="https://github-readme-stats-three-cyan-99.vercel.app/api?username=hiromon0125&show_icons=true&theme=transparent&hide=stars&count_private=true" />
 <img align="right" height="170px" src="https://github-readme-stats-three-cyan-99.vercel.app/api/top-langs/?username=hiromon0125&layout=compact&langs_count=8&theme=transparent" />
 
-<br/>
+#
 
-<h1>
-Contact me here
-</h1>
+# Contact me here
+
 <div id="badge" align="center" >
   
   <a href="https://www.linkedin.com/in/htakeuchi125/">
