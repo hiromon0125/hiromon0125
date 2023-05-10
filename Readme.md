@@ -16,7 +16,9 @@ I am a student at Rochester Institute of Technology studying Software Engineerin
   <summary><h2>My history</h2></summary>
   I was born and lived in Japan for 8 years then moved to the U.S. Having a Japanese background puts my focus on user experience first delivering applications that users will not have trouble using and are enjoyable to use. I started programming in highschool where I also started my capstone project which was a complex calendar web application, using Svelte framework, aimed to assist my classmates and underclassmen navigate through their complex school schedule with an ease. 
 </details>
-  
+
+#
+
 ### Languages/Frameworks/Tools I use
 <img align="left" alt="C-language" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C-plus-plus-language" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
