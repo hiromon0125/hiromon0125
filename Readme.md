@@ -7,17 +7,20 @@
   </h1>
 </div>
 
-<h2>Who am I?</h2>
-I am a Software Engineering student at Rochester Institute of Technology. I am a co-lead software engineer at a startup company <a href="https://getpupil.com/">Pupil</a> to develop a mobile app aimed to help high school students with college applications. Using technology like React native as the framework and Firebase for the backend. I aim to develop an application with a clean and functional interface that users would love to use.
+## Who am I?
+I am an undergrad at Rochester Institute of Technology studying Bachelors in Software Engineering and imersion in Geographical Information Systems. I am a hardworking, detail oriented programmer equipped with creativity for technical problem solving and design fun user experience. This all basically means I program for life, but what does that mean exactly?
+
+### Here are some of my projects
+* I am a project manager at a startup company <a href="https://getpupil.com/">Pupil</a> to develop a mobile app aimed to help high school students with college applications. Using technology like React native and Expo as the framework and Firebase for the backend, I aim to develop an application with a clean and functional interface that users would love to use. 
+* In my free time, I am also a lead software engineer at Multi-diciplinary Robotics Club at RIT, where I lead and develop software for quadruped robots from scratch with a team of 4 to 5 software engineers and also lead my team to work adjacent to variety of skilled engineers in other fields. My main focus of the project in Catbot is to not only create a functioning robot, but do so with the least technical debt and the most developer friendly for future freshmen and new programmers of any skillset. I accomplish such goal by architecting [custom frameworks](https://github.com/RIT-MDRC/RSMA) and produce detailed [implementation document](https://github.com/RIT-MDRC/Catbot/wiki/foundation#component) for any future catbot member. I even go as far as declaring a [sub-project](https://github.com/RIT-MDRC/lil-strider) within Catbot project to prove functionality of the custom frameworks and rigorously test for any potential developer experience issues.
+* When I am even freer than free, I develop full-stack [bus schedule application](https://github.com/hiromon0125/ritchie-bus-schedule) for all of RIT students to use. This is a mostly solo-developed application where I designed, developed, deployed, and tested for [real use](https://www.rit-bus.app/). The goal for this project was to not only create meaningful work, but also test my ability of researching modern technologies and managing full-stack application to be deployed by a single developer; not to mention following upto date design guidelines, web standards, and SEO optimization techniques.
 
 #
 
 <details>
   <summary><h2>My history</h2></summary>
-  I spent the first eight years of my life in Japan, then moved to the U.S. Having a Japanese background puts my focus on user experience first, delivering applications that users will not have trouble using and are enjoyable to use. I started programming in high school, where I also started my capstone project, a complex calendar web app using the Svelte framework. It aimed to assist my classmates through their complex school schedules. 
+  I spent the first eight years of my life in Japan, then moved to the U.S. Having a Japanese background puts my focus on user experience first, delivering applications that users will not have trouble using and are enjoyable to use. I started programming in high school, where I also started my capstone project, a complex calendar web app using the Svelte framework. It aimed to assist my classmates through their complex school schedules.
 </details>
-
-#
 
 ### Languages/Frameworks/Tools I use
 <img title="C Language" align="left" alt="C-language" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
